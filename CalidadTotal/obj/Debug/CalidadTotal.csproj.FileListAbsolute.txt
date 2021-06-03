@@ -1,0 +1,10 @@
+C:\Users\antho\source\repos\CalidadTotal\CalidadTotal\bin\Debug\CalidadTotal.exe.config
+C:\Users\antho\source\repos\CalidadTotal\CalidadTotal\bin\Debug\CalidadTotal.exe
+C:\Users\antho\source\repos\CalidadTotal\CalidadTotal\bin\Debug\CalidadTotal.pdb
+C:\Users\antho\source\repos\CalidadTotal\CalidadTotal\obj\Debug\CalidadTotal.csprojAssemblyReference.cache
+C:\Users\antho\source\repos\CalidadTotal\CalidadTotal\obj\Debug\CalidadTotal.Form1.resources
+C:\Users\antho\source\repos\CalidadTotal\CalidadTotal\obj\Debug\CalidadTotal.Properties.Resources.resources
+C:\Users\antho\source\repos\CalidadTotal\CalidadTotal\obj\Debug\CalidadTotal.csproj.GenerateResource.cache
+C:\Users\antho\source\repos\CalidadTotal\CalidadTotal\obj\Debug\CalidadTotal.csproj.CoreCompileInputs.cache
+C:\Users\antho\source\repos\CalidadTotal\CalidadTotal\obj\Debug\CalidadTotal.exe
+C:\Users\antho\source\repos\CalidadTotal\CalidadTotal\obj\Debug\CalidadTotal.pdb

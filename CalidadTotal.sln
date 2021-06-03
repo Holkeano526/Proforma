@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalidadTotal", "CalidadTotal\CalidadTotal.csproj", "{2E90FBE7-069A-4F45-9743-902B4EE7ECB6}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Calidad Total v2.0", "Calidad Total v2.0\Calidad Total v2.0.vdproj", "{E5973CBE-7154-4079-8FFA-E63E2B1DE032}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2E90FBE7-069A-4F45-9743-902B4EE7ECB6}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{2E90FBE7-069A-4F45-9743-902B4EE7ECB6}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{2E90FBE7-069A-4F45-9743-902B4EE7ECB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E90FBE7-069A-4F45-9743-902B4EE7ECB6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5973CBE-7154-4079-8FFA-E63E2B1DE032}.Debug|Any CPU.ActiveCfg = Release
+		{E5973CBE-7154-4079-8FFA-E63E2B1DE032}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DA3860CF-1659-4851-9D6D-AC02D73EA6E7}
+	EndGlobalSection
+EndGlobal
